@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1518-water-bottles) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
