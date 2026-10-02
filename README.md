@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0989-add-to-array-form-of-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1470-shuffle-the-array) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
