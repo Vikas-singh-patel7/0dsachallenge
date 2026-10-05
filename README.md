@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
