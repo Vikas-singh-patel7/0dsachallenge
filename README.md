@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quicksort
 |  |
 | ------- |
