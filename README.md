@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1672-richest-customer-wealth) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
