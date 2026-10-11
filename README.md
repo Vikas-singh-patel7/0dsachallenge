@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0412-fizz-buzz) |
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0412-fizz-buzz) |
