@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0412-fizz-buzz) |
