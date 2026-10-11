@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
@@ -155,9 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
