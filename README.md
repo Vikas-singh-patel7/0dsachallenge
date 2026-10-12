@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0334-increasing-triplet-subsequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1672-richest-customer-wealth) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
