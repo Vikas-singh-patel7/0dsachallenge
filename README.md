@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1046-last-stone-weight) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0287-find-the-duplicate-number) |
+| [0881-boats-to-save-people](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Brainteaser
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0334-increasing-triplet-subsequence) |
+| [0881-boats-to-save-people](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0881-boats-to-save-people) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0287-find-the-duplicate-number) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
