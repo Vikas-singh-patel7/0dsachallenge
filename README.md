@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0443-string-compression) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Brainteaser
