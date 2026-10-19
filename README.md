@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0412-fizz-buzz) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0881-boats-to-save-people) |
