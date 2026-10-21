@@ -284,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
