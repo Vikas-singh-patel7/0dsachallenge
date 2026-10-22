@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1518-water-bottles) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -289,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
