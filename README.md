@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Array
 |  |
 | ------- |
@@ -312,5 +313,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0328-odd-even-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
