@@ -331,19 +331,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0101-symmetric-tree) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0101-symmetric-tree) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
