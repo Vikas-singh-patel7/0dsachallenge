@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -341,5 +344,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
