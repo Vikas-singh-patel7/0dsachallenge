@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
@@ -346,11 +347,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
