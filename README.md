@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0162-find-peak-element) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0145-binary-tree-postorder-traversal) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0145-binary-tree-postorder-traversal) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## DP on Trees
 |  |
