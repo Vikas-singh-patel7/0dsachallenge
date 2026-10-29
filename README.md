@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
