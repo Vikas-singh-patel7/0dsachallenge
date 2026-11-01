@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikas-singh-patel7/0dsachallenge/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
